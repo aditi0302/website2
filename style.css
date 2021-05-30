@@ -1,0 +1,30 @@
+.header{
+    background-color: Linen;
+    color: teal;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu{
+    background-color:Teal;
+    color:mistyrose;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+ color: teal;
+ font-family:Arial, Helvetica, sans-serif;    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.ending{
+    background-color: teal;
+    color: seashell;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content:start ;
+}
